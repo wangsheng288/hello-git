@@ -1,5 +1,5 @@
-# Hello,Gitqwdwdqwqdwqdcd hello-grerfiterferferfrefregit add README.md21312312321!
-$ cd hello-git
-$ git add README.md
-$ git commit -m 'Update REAME.md'
-$ git push
+# nimabi!
+$ 1cd hello-git
+$ 1git add README.md
+$ 1git commit -m 'Update nimabi.md'
+$ 1git push
